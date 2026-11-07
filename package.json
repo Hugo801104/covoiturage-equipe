@@ -1,0 +1,22 @@
+{
+  "name": "covoiturage-equipe",
+  "version": "1.0.0",
+  "description": "Application 100 % locale d'organisation et d'optimisation du covoiturage pour une équipe sportive.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "test": "node --test \"tests/**/*.test.ts\"",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "demo-json": "node scripts/make-demo-json.ts",
+    "check": "npm run typecheck && npm test && npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0"
+  }
+}

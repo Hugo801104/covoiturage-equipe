@@ -1,0 +1,12 @@
+{
+  "name": "Covoiturage équipe",
+  "short_name": "Covoiturage",
+  "description": "Organisation du covoiturage d'une équipe sportive, 100 % locale et hors ligne.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#1456c8",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

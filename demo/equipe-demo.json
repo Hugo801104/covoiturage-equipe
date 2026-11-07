@@ -1,0 +1,3949 @@
+{
+  "format": "covoiturage-equipe",
+  "schemaVersion": 1,
+  "exportedAt": "2026-11-06T22:35:32.269Z",
+  "appVersion": "1.0.0",
+  "data": {
+    "schemaVersion": 1,
+    "team": {
+      "name": "Les Loups de Loire (démo)"
+    },
+    "participants": [
+      {
+        "id": "p_demo_01",
+        "firstName": "Hugo",
+        "lastName": "Martin",
+        "home": {
+          "label": "Nantes",
+          "address": "",
+          "lat": 47.2184,
+          "lng": -1.5536
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "priority",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_02",
+        "firstName": "Jasmin",
+        "lastName": "Bernard",
+        "home": {
+          "label": "Rezé",
+          "address": "",
+          "lat": 47.1819,
+          "lng": -1.5497
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 3,
+        "drivingPreference": "volunteer",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_03",
+        "firstName": "Léa",
+        "lastName": "Dubois",
+        "home": {
+          "label": "Vertou",
+          "address": "",
+          "lat": 47.1686,
+          "lng": -1.4694
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "volunteer",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_04",
+        "firstName": "Thomas",
+        "lastName": "Moreau",
+        "home": {
+          "label": "Saint-Sébastien-sur-Loire",
+          "address": "",
+          "lat": 47.2058,
+          "lng": -1.4999
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "indifferent",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_05",
+        "firstName": "Camille",
+        "lastName": "Laurent",
+        "home": {
+          "label": "Saint-Herblain",
+          "address": "",
+          "lat": 47.2122,
+          "lng": -1.6488
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 3,
+        "drivingPreference": "indifferent",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_06",
+        "firstName": "Nathan",
+        "lastName": "Simon",
+        "home": {
+          "label": "Orvault",
+          "address": "",
+          "lat": 47.2717,
+          "lng": -1.6203
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "priority",
+        "priorityDriver": true,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_07",
+        "firstName": "Emma",
+        "lastName": "Michel",
+        "home": {
+          "label": "Carquefou",
+          "address": "",
+          "lat": 47.2986,
+          "lng": -1.4903
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 2,
+        "drivingPreference": "prefer_passenger",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": true,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_08",
+        "firstName": "Lucas",
+        "lastName": "Lefebvre",
+        "home": {
+          "label": "Bouguenais",
+          "address": "",
+          "lat": 47.1783,
+          "lng": -1.6222
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "Ne souhaite pas conduire.",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_09",
+        "firstName": "Chloé",
+        "lastName": "Garcia",
+        "home": {
+          "label": "Couëron",
+          "address": "",
+          "lat": 47.2155,
+          "lng": -1.7244
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 3,
+        "drivingPreference": "volunteer",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_10",
+        "firstName": "Maxime",
+        "lastName": "Roux",
+        "home": {
+          "label": "Sainte-Luce-sur-Loire",
+          "address": "",
+          "lat": 47.2556,
+          "lng": -1.4806
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 6,
+        "drivingPreference": "volunteer",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "Minibus 7 places.",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_11",
+        "firstName": "Inès",
+        "lastName": "Fournier",
+        "home": {
+          "label": "Basse-Goulaine",
+          "address": "",
+          "lat": 47.2117,
+          "lng": -1.4631
+        },
+        "hasCar": false,
+        "carAvailable": false,
+        "seats": 0,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_12",
+        "firstName": "Louis",
+        "lastName": "Girard",
+        "home": {
+          "label": "La Chapelle-sur-Erdre",
+          "address": "",
+          "lat": 47.2993,
+          "lng": -1.5531
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "indifferent",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_13",
+        "firstName": "Manon",
+        "lastName": "Bonnet",
+        "home": {
+          "label": "Sautron",
+          "address": "",
+          "lat": 47.2638,
+          "lng": -1.6694
+        },
+        "hasCar": false,
+        "carAvailable": false,
+        "seats": 0,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_14",
+        "firstName": "Hugo",
+        "lastName": "Lambert",
+        "home": {
+          "label": "Les Sorinières",
+          "address": "",
+          "lat": 47.1469,
+          "lng": -1.5253
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 3,
+        "drivingPreference": "volunteer",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_15",
+        "firstName": "Sarah",
+        "lastName": "Mercier",
+        "home": {
+          "label": "Nantes",
+          "address": "",
+          "lat": 47.2184,
+          "lng": -1.5536
+        },
+        "hasCar": false,
+        "carAvailable": false,
+        "seats": 0,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_16",
+        "firstName": "Antoine",
+        "lastName": "Blanc",
+        "home": {
+          "label": "Rezé",
+          "address": "",
+          "lat": 47.1819,
+          "lng": -1.5497
+        },
+        "hasCar": false,
+        "carAvailable": false,
+        "seats": 0,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_17",
+        "firstName": "Julie",
+        "lastName": "Faure",
+        "home": {
+          "label": "Vertou",
+          "address": "",
+          "lat": 47.1686,
+          "lng": -1.4694
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "prefer_passenger",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_18",
+        "firstName": "Romain",
+        "lastName": "Perrin",
+        "home": {
+          "label": "Saint-Herblain",
+          "address": "",
+          "lat": 47.2122,
+          "lng": -1.6488
+        },
+        "hasCar": false,
+        "carAvailable": false,
+        "seats": 0,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_19",
+        "firstName": "Clara",
+        "lastName": "Morel",
+        "home": {
+          "label": "Thouaré-sur-Loire",
+          "address": "",
+          "lat": 47.2833,
+          "lng": -1.4333
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "indifferent",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_20",
+        "firstName": "Paul",
+        "lastName": "André",
+        "home": {
+          "label": "Saint-Étienne-de-Montluc",
+          "address": "",
+          "lat": 47.2755,
+          "lng": -1.775
+        },
+        "hasCar": false,
+        "carAvailable": false,
+        "seats": 0,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_21",
+        "firstName": "Eva",
+        "lastName": "Lopez",
+        "home": {
+          "label": "Clisson",
+          "address": "",
+          "lat": 47.0871,
+          "lng": -1.2788
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 3,
+        "drivingPreference": "volunteer",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_22",
+        "firstName": "Mathis",
+        "lastName": "Roche",
+        "home": {
+          "label": "Nantes",
+          "address": "",
+          "lat": 47.2184,
+          "lng": -1.5536
+        },
+        "hasCar": false,
+        "carAvailable": false,
+        "seats": 0,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_23",
+        "firstName": "Zoé",
+        "lastName": "Vincent",
+        "home": {
+          "label": "Orvault",
+          "address": "",
+          "lat": 47.2717,
+          "lng": -1.6203
+        },
+        "hasCar": false,
+        "carAvailable": false,
+        "seats": 0,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": false,
+        "acceptLastResort": false,
+        "notes": "",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "p_demo_24",
+        "firstName": "Enzo",
+        "lastName": "Colin",
+        "home": {
+          "label": "Carquefou",
+          "address": "",
+          "lat": 47.2986,
+          "lng": -1.4903
+        },
+        "hasCar": true,
+        "carAvailable": true,
+        "seats": 4,
+        "drivingPreference": "refuse",
+        "priorityDriver": false,
+        "neverDrive": true,
+        "acceptLastResort": false,
+        "notes": "Ne doit jamais conduire.",
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      }
+    ],
+    "events": [
+      {
+        "id": "e_demo_1",
+        "name": "Tournoi d’Angers",
+        "date": "2026-09-12",
+        "departureTime": "07:30",
+        "returnTime": null,
+        "destination": {
+          "label": "Angers",
+          "address": "Complexe sportif de Angers",
+          "lat": 47.4784,
+          "lng": -0.5632
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "done",
+        "plan": {
+          "id": "plan_e_demo_1",
+          "strategy": {
+            "mode": "mixed",
+            "weights": {
+              "volunteer": 5,
+              "tripEquity": 5,
+              "distanceEquity": 3,
+              "consecutive": 5,
+              "compactness": 5,
+              "fewCars": 6
+            },
+            "maxConsecutive": 2,
+            "maxDetourKm": 25,
+            "extraCars": 1
+          },
+          "generatedAt": "2026-09-12T06:00:00.000Z",
+          "source": "engine",
+          "vehicles": [
+            {
+              "id": "veh_p_demo_10",
+              "driverId": "p_demo_10",
+              "passengerIds": [
+                "p_demo_15",
+                "p_demo_01",
+                "p_demo_16",
+                "p_demo_04",
+                "p_demo_11",
+                "p_demo_19"
+              ]
+            },
+            {
+              "id": "veh_p_demo_03",
+              "driverId": "p_demo_03",
+              "passengerIds": [
+                "p_demo_17",
+                "p_demo_02",
+                "p_demo_14",
+                "p_demo_21"
+              ]
+            },
+            {
+              "id": "veh_p_demo_06",
+              "driverId": "p_demo_06",
+              "passengerIds": [
+                "p_demo_23",
+                "p_demo_12",
+                "p_demo_24",
+                "p_demo_07"
+              ]
+            },
+            {
+              "id": "veh_p_demo_09",
+              "driverId": "p_demo_09",
+              "passengerIds": [
+                "p_demo_20",
+                "p_demo_18",
+                "p_demo_08"
+              ]
+            }
+          ],
+          "unassigned": [],
+          "excluded": [],
+          "selfTransportIds": [],
+          "eligibleDriverIds": [
+            "p_demo_01",
+            "p_demo_02",
+            "p_demo_03",
+            "p_demo_04",
+            "p_demo_06",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_12",
+            "p_demo_14",
+            "p_demo_19",
+            "p_demo_21"
+          ],
+          "attendeeIds": [
+            "p_demo_01",
+            "p_demo_02",
+            "p_demo_03",
+            "p_demo_04",
+            "p_demo_06",
+            "p_demo_07",
+            "p_demo_08",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_11",
+            "p_demo_12",
+            "p_demo_14",
+            "p_demo_15",
+            "p_demo_16",
+            "p_demo_17",
+            "p_demo_18",
+            "p_demo_19",
+            "p_demo_20",
+            "p_demo_21",
+            "p_demo_23",
+            "p_demo_24"
+          ],
+          "locks": {
+            "drivers": [],
+            "assignments": {}
+          },
+          "issues": [],
+          "suggestions": [],
+          "status": "ok",
+          "metrics": {
+            "carsUsed": 4,
+            "totalKm": 388.96917999122877,
+            "totalDetourKm": 63.980550083114466,
+            "soloKm": 1667.3753967304265,
+            "vehicles": [
+              {
+                "vehicleId": "veh_p_demo_10",
+                "routeKm": 95.70656807514749,
+                "directKm": 73.39844155124597,
+                "detourKm": 22.30812652390152,
+                "seatsUsed": 7,
+                "seatsTotal": 7
+              },
+              {
+                "vehicleId": "veh_p_demo_03",
+                "routeKm": 99.68790627072251,
+                "directKm": 76.49878138299925,
+                "detourKm": 23.189124887723253,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_06",
+                "routeKm": 83.26209550753583,
+                "directKm": 82.85162379944815,
+                "detourKm": 0.41047170808768385,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_09",
+                "routeKm": 110.31261013782293,
+                "directKm": 92.23978317442092,
+                "detourKm": 18.072826963402008,
+                "seatsUsed": 4,
+                "seatsTotal": 4
+              }
+            ],
+            "passengerKm": {
+              "p_demo_15": 88.81562083979375,
+              "p_demo_01": 88.81562083979375,
+              "p_demo_16": 84.74631915847395,
+              "p_demo_04": 80.13961799723114,
+              "p_demo_11": 77.28344991300389,
+              "p_demo_19": 69.01022136326674,
+              "p_demo_17": 99.68790627072251,
+              "p_demo_02": 93.44079453268827,
+              "p_demo_14": 89.13392458592054,
+              "p_demo_21": 69.33180351374929,
+              "p_demo_23": 83.26209550753583,
+              "p_demo_12": 77.33660148007627,
+              "p_demo_24": 72.6002443540391,
+              "p_demo_07": 72.6002443540391,
+              "p_demo_20": 102.6249050920733,
+              "p_demo_18": 90.78013799336243,
+              "p_demo_08": 86.50829741467196
+            },
+            "distanceKind": "straight_line"
+          },
+          "alternatives": [
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_06",
+                "p_demo_03",
+                "p_demo_09"
+              ],
+              "carsUsed": 4,
+              "totalKm": 388.96917999122877,
+              "score": 719.8131227825061,
+              "projectedImbalance": 0.48104569292083466
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_06",
+                "p_demo_01",
+                "p_demo_14"
+              ],
+              "carsUsed": 4,
+              "totalKm": 398.6615391922075,
+              "score": 729.9043924104717,
+              "projectedImbalance": 0.48104569292083466
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_06",
+                "p_demo_01",
+                "p_demo_02"
+              ],
+              "carsUsed": 4,
+              "totalKm": 400.79808646260426,
+              "score": 732.0408926808685,
+              "projectedImbalance": 0.48104569292083466
+            }
+          ],
+          "validated": true
+        },
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "e_demo_2",
+        "name": "Match à Cholet",
+        "date": "2026-09-26",
+        "departureTime": "12:30",
+        "returnTime": null,
+        "destination": {
+          "label": "Cholet",
+          "address": "Complexe sportif de Cholet",
+          "lat": 47.0606,
+          "lng": -0.8786
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "done",
+        "plan": {
+          "id": "plan_e_demo_2",
+          "strategy": {
+            "mode": "mixed",
+            "weights": {
+              "volunteer": 5,
+              "tripEquity": 5,
+              "distanceEquity": 3,
+              "consecutive": 5,
+              "compactness": 5,
+              "fewCars": 6
+            },
+            "maxConsecutive": 2,
+            "maxDetourKm": 25,
+            "extraCars": 1
+          },
+          "generatedAt": "2026-09-26T06:00:00.000Z",
+          "source": "engine",
+          "vehicles": [
+            {
+              "id": "veh_p_demo_01",
+              "driverId": "p_demo_01",
+              "passengerIds": [
+                "p_demo_22",
+                "p_demo_15",
+                "p_demo_18",
+                "p_demo_05"
+              ]
+            },
+            {
+              "id": "veh_p_demo_04",
+              "driverId": "p_demo_04",
+              "passengerIds": [
+                "p_demo_02",
+                "p_demo_14",
+                "p_demo_17",
+                "p_demo_21"
+              ]
+            },
+            {
+              "id": "veh_p_demo_06",
+              "driverId": "p_demo_06",
+              "passengerIds": [
+                "p_demo_23",
+                "p_demo_13",
+                "p_demo_09",
+                "p_demo_11"
+              ]
+            },
+            {
+              "id": "veh_p_demo_12",
+              "driverId": "p_demo_12",
+              "passengerIds": [
+                "p_demo_24",
+                "p_demo_07",
+                "p_demo_10",
+                "p_demo_19"
+              ]
+            }
+          ],
+          "unassigned": [],
+          "excluded": [],
+          "selfTransportIds": [],
+          "eligibleDriverIds": [
+            "p_demo_01",
+            "p_demo_02",
+            "p_demo_04",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_12",
+            "p_demo_14",
+            "p_demo_19",
+            "p_demo_21"
+          ],
+          "attendeeIds": [
+            "p_demo_01",
+            "p_demo_02",
+            "p_demo_04",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_07",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_11",
+            "p_demo_12",
+            "p_demo_13",
+            "p_demo_14",
+            "p_demo_15",
+            "p_demo_17",
+            "p_demo_18",
+            "p_demo_19",
+            "p_demo_21",
+            "p_demo_22",
+            "p_demo_23",
+            "p_demo_24"
+          ],
+          "locks": {
+            "drivers": [],
+            "assignments": {}
+          },
+          "issues": [],
+          "suggestions": [],
+          "status": "ok",
+          "metrics": {
+            "carsUsed": 4,
+            "totalKm": 269.75073526762515,
+            "totalDetourKm": 47.81076970516309,
+            "soloKm": 1074.2718861827254,
+            "vehicles": [
+              {
+                "vehicleId": "veh_p_demo_01",
+                "routeKm": 67.87154365378174,
+                "directKm": 53.98559564790986,
+                "detourKm": 13.885948005871882,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_04",
+                "routeKm": 61.26130502885684,
+                "directKm": 49.69437113739623,
+                "detourKm": 11.566933891460607,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_06",
+                "routeKm": 77.63401897452924,
+                "directKm": 60.786316348501316,
+                "detourKm": 16.847702626027925,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_12",
+                "routeKm": 62.98386761045733,
+                "directKm": 57.473682428654655,
+                "detourKm": 5.510185181802676,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              }
+            ],
+            "passengerKm": {
+              "p_demo_22": 67.87154365378174,
+              "p_demo_15": 67.87154365378174,
+              "p_demo_18": 60.6482332864281,
+              "p_demo_05": 60.6482332864281,
+              "p_demo_02": 56.65460386761403,
+              "p_demo_14": 52.34773392084629,
+              "p_demo_17": 47.48083532992411,
+              "p_demo_21": 30.45001485274267,
+              "p_demo_23": 77.63401897452924,
+              "p_demo_13": 73.826508103723,
+              "p_demo_09": 67.03790051413279,
+              "p_demo_11": 47.29709438171709,
+              "p_demo_24": 58.24751048442016,
+              "p_demo_07": 58.24751048442016,
+              "p_demo_10": 53.410448424180075,
+              "p_demo_19": 48.696236145094915
+            },
+            "distanceKind": "straight_line"
+          },
+          "alternatives": [
+            {
+              "driverIds": [
+                "p_demo_01",
+                "p_demo_06",
+                "p_demo_04",
+                "p_demo_12"
+              ],
+              "carsUsed": 4,
+              "totalKm": 269.75073526762515,
+              "score": 534.0317229592398,
+              "projectedImbalance": 0.6181243620269472
+            },
+            {
+              "driverIds": [
+                "p_demo_01",
+                "p_demo_06",
+                "p_demo_19",
+                "p_demo_04"
+              ],
+              "carsUsed": 4,
+              "totalKm": 271.2180630787334,
+              "score": 535.498717770348,
+              "projectedImbalance": 0.6181243620269472
+            },
+            {
+              "driverIds": [
+                "p_demo_01",
+                "p_demo_06",
+                "p_demo_19",
+                "p_demo_12"
+              ],
+              "carsUsed": 4,
+              "totalKm": 277.55527286120576,
+              "score": 541.8360225528204,
+              "projectedImbalance": 0.6181243620269471
+            }
+          ],
+          "validated": true
+        },
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "e_demo_3",
+        "name": "Tournoi de La Roche-sur-Yon",
+        "date": "2026-10-03",
+        "departureTime": "07:00",
+        "returnTime": null,
+        "destination": {
+          "label": "La Roche-sur-Yon",
+          "address": "Complexe sportif de La Roche-sur-Yon",
+          "lat": 46.6705,
+          "lng": -1.426
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "done",
+        "plan": {
+          "id": "plan_e_demo_3",
+          "strategy": {
+            "mode": "mixed",
+            "weights": {
+              "volunteer": 5,
+              "tripEquity": 5,
+              "distanceEquity": 3,
+              "consecutive": 5,
+              "compactness": 5,
+              "fewCars": 6
+            },
+            "maxConsecutive": 2,
+            "maxDetourKm": 25,
+            "extraCars": 1
+          },
+          "generatedAt": "2026-10-03T06:00:00.000Z",
+          "source": "engine",
+          "vehicles": [
+            {
+              "id": "veh_p_demo_10",
+              "driverId": "p_demo_10",
+              "passengerIds": [
+                "p_demo_11",
+                "p_demo_04",
+                "p_demo_22",
+                "p_demo_15",
+                "p_demo_16",
+                "p_demo_08"
+              ]
+            },
+            {
+              "id": "veh_p_demo_01",
+              "driverId": "p_demo_01",
+              "passengerIds": [
+                "p_demo_06",
+                "p_demo_13",
+                "p_demo_20",
+                "p_demo_09"
+              ]
+            },
+            {
+              "id": "veh_p_demo_19",
+              "driverId": "p_demo_19",
+              "passengerIds": [
+                "p_demo_24",
+                "p_demo_07",
+                "p_demo_23",
+                "p_demo_05"
+              ]
+            },
+            {
+              "id": "veh_p_demo_14",
+              "driverId": "p_demo_14",
+              "passengerIds": [
+                "p_demo_17",
+                "p_demo_03",
+                "p_demo_21"
+              ]
+            }
+          ],
+          "unassigned": [],
+          "excluded": [],
+          "selfTransportIds": [],
+          "eligibleDriverIds": [
+            "p_demo_01",
+            "p_demo_03",
+            "p_demo_04",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_14",
+            "p_demo_19",
+            "p_demo_21"
+          ],
+          "attendeeIds": [
+            "p_demo_01",
+            "p_demo_03",
+            "p_demo_04",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_07",
+            "p_demo_08",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_11",
+            "p_demo_13",
+            "p_demo_14",
+            "p_demo_15",
+            "p_demo_16",
+            "p_demo_17",
+            "p_demo_19",
+            "p_demo_20",
+            "p_demo_21",
+            "p_demo_22",
+            "p_demo_23",
+            "p_demo_24"
+          ],
+          "locks": {
+            "drivers": [],
+            "assignments": {}
+          },
+          "issues": [
+            {
+              "severity": "warning",
+              "code": "LONG_DETOUR",
+              "message": "Voiture de Hugo Martin : détour estimé de 30.4 km (seuil 25 km).",
+              "participantIds": [
+                "p_demo_01"
+              ],
+              "vehicleId": "veh_p_demo_01"
+            }
+          ],
+          "suggestions": [],
+          "status": "ok",
+          "metrics": {
+            "carsUsed": 4,
+            "totalKm": 326.1574001869741,
+            "totalDetourKm": 77.62605162129361,
+            "soloKm": 1311.6013631747348,
+            "vehicles": [
+              {
+                "vehicleId": "veh_p_demo_10",
+                "routeKm": 80.16555692179352,
+                "directKm": 65.19204322118955,
+                "detourKm": 14.973513700603974,
+                "seatsUsed": 7,
+                "seatsTotal": 7
+              },
+              {
+                "vehicleId": "veh_p_demo_01",
+                "routeKm": 92.04181125162233,
+                "directKm": 61.689012308564315,
+                "detourKm": 30.35279894305802,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_19",
+                "routeKm": 84.39652559892609,
+                "directKm": 68.14259577071229,
+                "detourKm": 16.2539298282138,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_14",
+                "routeKm": 69.55350641463212,
+                "directKm": 53.50769726521431,
+                "detourKm": 16.045809149417813,
+                "seatsUsed": 4,
+                "seatsTotal": 4
+              }
+            ],
+            "passengerKm": {
+              "p_demo_11": 75.10843200255366,
+              "p_demo_04": 72.2522639183264,
+              "p_demo_22": 67.96096816882256,
+              "p_demo_15": 67.96096816882256,
+              "p_demo_16": 63.891666487502754,
+              "p_demo_08": 58.39759656727466,
+              "p_demo_06": 84.26515657651197,
+              "p_demo_13": 80.45764570570573,
+              "p_demo_20": 72.38447412064872,
+              "p_demo_09": 64.6967690748991,
+              "p_demo_24": 79.77313861840516,
+              "p_demo_07": 79.77313861840516,
+              "p_demo_23": 69.52128219929865,
+              "p_demo_05": 62.56414412431098,
+              "p_demo_17": 64.68660782370995,
+              "p_demo_03": 64.68660782370995,
+              "p_demo_21": 47.655787346528506
+            },
+            "distanceKind": "straight_line"
+          },
+          "alternatives": [
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_19",
+                "p_demo_01",
+                "p_demo_14"
+              ],
+              "carsUsed": 4,
+              "totalKm": 326.1574001869741,
+              "score": 645.67747547395,
+              "projectedImbalance": 0.6510639734470501
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_19",
+                "p_demo_01",
+                "p_demo_05"
+              ],
+              "carsUsed": 4,
+              "totalKm": 321.6482387274352,
+              "score": 657.9629050726137,
+              "projectedImbalance": 0.704706726410309
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_19",
+                "p_demo_01",
+                "p_demo_21"
+              ],
+              "carsUsed": 4,
+              "totalKm": 332.0093101056599,
+              "score": 662.5278533397935,
+              "projectedImbalance": 0.6510639734470501
+            }
+          ],
+          "validated": true
+        },
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "e_demo_4",
+        "name": "Rencontre à Saint-Nazaire",
+        "date": "2026-10-10",
+        "departureTime": "09:00",
+        "returnTime": null,
+        "destination": {
+          "label": "Saint-Nazaire",
+          "address": "Complexe sportif de Saint-Nazaire",
+          "lat": 47.2733,
+          "lng": -2.2137
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "done",
+        "plan": {
+          "id": "plan_e_demo_4",
+          "strategy": {
+            "mode": "mixed",
+            "weights": {
+              "volunteer": 5,
+              "tripEquity": 5,
+              "distanceEquity": 3,
+              "consecutive": 5,
+              "compactness": 5,
+              "fewCars": 6
+            },
+            "maxConsecutive": 2,
+            "maxDetourKm": 25,
+            "extraCars": 1
+          },
+          "generatedAt": "2026-10-10T06:00:00.000Z",
+          "source": "engine",
+          "vehicles": [
+            {
+              "id": "veh_p_demo_10",
+              "driverId": "p_demo_10",
+              "passengerIds": [
+                "p_demo_19",
+                "p_demo_12",
+                "p_demo_23",
+                "p_demo_06",
+                "p_demo_13",
+                "p_demo_20"
+              ]
+            },
+            {
+              "id": "veh_p_demo_04",
+              "driverId": "p_demo_04",
+              "passengerIds": [
+                "p_demo_11",
+                "p_demo_22",
+                "p_demo_18",
+                "p_demo_05"
+              ]
+            },
+            {
+              "id": "veh_p_demo_02",
+              "driverId": "p_demo_02",
+              "passengerIds": [
+                "p_demo_16",
+                "p_demo_08",
+                "p_demo_09"
+              ]
+            },
+            {
+              "id": "veh_p_demo_21",
+              "driverId": "p_demo_21",
+              "passengerIds": [
+                "p_demo_17",
+                "p_demo_03",
+                "p_demo_14"
+              ]
+            }
+          ],
+          "unassigned": [],
+          "excluded": [],
+          "selfTransportIds": [],
+          "eligibleDriverIds": [
+            "p_demo_02",
+            "p_demo_03",
+            "p_demo_04",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_12",
+            "p_demo_14",
+            "p_demo_19",
+            "p_demo_21"
+          ],
+          "attendeeIds": [
+            "p_demo_02",
+            "p_demo_03",
+            "p_demo_04",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_08",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_11",
+            "p_demo_12",
+            "p_demo_13",
+            "p_demo_14",
+            "p_demo_16",
+            "p_demo_17",
+            "p_demo_18",
+            "p_demo_19",
+            "p_demo_20",
+            "p_demo_21",
+            "p_demo_22",
+            "p_demo_23"
+          ],
+          "locks": {
+            "drivers": [],
+            "assignments": {}
+          },
+          "issues": [],
+          "suggestions": [],
+          "status": "ok",
+          "metrics": {
+            "carsUsed": 4,
+            "totalKm": 252.4721853394064,
+            "totalDetourKm": 17.922918496776965,
+            "soloKm": 1003.9229100019896,
+            "vehicles": [
+              {
+                "vehicleId": "veh_p_demo_10",
+                "routeKm": 64.82762226883774,
+                "directKm": 55.35357521922061,
+                "detourKm": 9.474047049617134,
+                "seatsUsed": 7,
+                "seatsTotal": 7
+              },
+              {
+                "vehicleId": "veh_p_demo_04",
+                "routeKm": 60.13715257920114,
+                "directKm": 54.40775262223684,
+                "detourKm": 5.729399956964301,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_02",
+                "routeKm": 51.7447964536632,
+                "directKm": 51.15894987968784,
+                "detourKm": 0.5858465739753598,
+                "seatsUsed": 4,
+                "seatsTotal": 4
+              },
+              {
+                "vehicleId": "veh_p_demo_21",
+                "routeKm": 75.76261403770431,
+                "directKm": 73.62898912148414,
+                "detourKm": 2.133624916220171,
+                "seatsUsed": 4,
+                "seatsTotal": 4
+              }
+            ],
+            "passengerKm": {
+              "p_demo_19": 60.11340998975258,
+              "p_demo_12": 50.904549437133106,
+              "p_demo_23": 44.97905540967354,
+              "p_demo_06": 44.97905540967354,
+              "p_demo_13": 41.1715445388673,
+              "p_demo_20": 33.09837295381028,
+              "p_demo_11": 57.280984494973886,
+              "p_demo_22": 50.40512130074699,
+              "p_demo_18": 43.18181093339335,
+              "p_demo_05": 43.18181093339335,
+              "p_demo_16": 51.7447964536632,
+              "p_demo_08": 46.250726533435106,
+              "p_demo_09": 37.49086659775612,
+              "p_demo_17": 58.73179356052287,
+              "p_demo_03": 58.73179356052287,
+              "p_demo_14": 53.86489496960069
+            },
+            "distanceKind": "straight_line"
+          },
+          "alternatives": [
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_21",
+                "p_demo_02",
+                "p_demo_04"
+              ],
+              "carsUsed": 4,
+              "totalKm": 252.4721853394064,
+              "score": 605.3140101131219,
+              "projectedImbalance": 0.6737884294195752
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_19",
+                "p_demo_21",
+                "p_demo_02"
+              ],
+              "carsUsed": 4,
+              "totalKm": 251.90280843879407,
+              "score": 609.2995152702279,
+              "projectedImbalance": 0.6737884294195753
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_06",
+                "p_demo_21",
+                "p_demo_02"
+              ],
+              "carsUsed": 4,
+              "totalKm": 259.59329155294,
+              "score": 610.5066080102015,
+              "projectedImbalance": 0.797376341157599
+            }
+          ],
+          "validated": true
+        },
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "e_demo_5",
+        "name": "Tournoi de Rennes",
+        "date": "2026-10-17",
+        "departureTime": "06:45",
+        "returnTime": null,
+        "destination": {
+          "label": "Rennes",
+          "address": "Complexe sportif de Rennes",
+          "lat": 48.1173,
+          "lng": -1.6778
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "done",
+        "plan": {
+          "id": "plan_e_demo_5",
+          "strategy": {
+            "mode": "mixed",
+            "weights": {
+              "volunteer": 5,
+              "tripEquity": 5,
+              "distanceEquity": 3,
+              "consecutive": 5,
+              "compactness": 5,
+              "fewCars": 6
+            },
+            "maxConsecutive": 2,
+            "maxDetourKm": 25,
+            "extraCars": 1
+          },
+          "generatedAt": "2026-10-17T06:00:00.000Z",
+          "source": "engine",
+          "vehicles": [
+            {
+              "id": "veh_p_demo_03",
+              "driverId": "p_demo_03",
+              "passengerIds": [
+                "p_demo_17",
+                "p_demo_11",
+                "p_demo_04",
+                "p_demo_22"
+              ]
+            },
+            {
+              "id": "veh_p_demo_19",
+              "driverId": "p_demo_19",
+              "passengerIds": [
+                "p_demo_10",
+                "p_demo_24",
+                "p_demo_07",
+                "p_demo_12"
+              ]
+            },
+            {
+              "id": "veh_p_demo_02",
+              "driverId": "p_demo_02",
+              "passengerIds": [
+                "p_demo_16",
+                "p_demo_15",
+                "p_demo_01"
+              ]
+            },
+            {
+              "id": "veh_p_demo_05",
+              "driverId": "p_demo_05",
+              "passengerIds": [
+                "p_demo_18",
+                "p_demo_08",
+                "p_demo_20"
+              ]
+            },
+            {
+              "id": "veh_p_demo_06",
+              "driverId": "p_demo_06",
+              "passengerIds": [
+                "p_demo_23",
+                "p_demo_13"
+              ]
+            }
+          ],
+          "unassigned": [],
+          "excluded": [],
+          "selfTransportIds": [],
+          "eligibleDriverIds": [
+            "p_demo_01",
+            "p_demo_02",
+            "p_demo_03",
+            "p_demo_04",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_10",
+            "p_demo_12",
+            "p_demo_19"
+          ],
+          "attendeeIds": [
+            "p_demo_01",
+            "p_demo_02",
+            "p_demo_03",
+            "p_demo_04",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_07",
+            "p_demo_08",
+            "p_demo_10",
+            "p_demo_11",
+            "p_demo_12",
+            "p_demo_13",
+            "p_demo_15",
+            "p_demo_16",
+            "p_demo_17",
+            "p_demo_18",
+            "p_demo_19",
+            "p_demo_20",
+            "p_demo_22",
+            "p_demo_23",
+            "p_demo_24"
+          ],
+          "locks": {
+            "drivers": [],
+            "assignments": {}
+          },
+          "issues": [],
+          "suggestions": [],
+          "status": "ok",
+          "metrics": {
+            "carsUsed": 5,
+            "totalKm": 535.2076920189679,
+            "totalDetourKm": 34.798970009219204,
+            "soloKm": 2077.5383238619543,
+            "vehicles": [
+              {
+                "vehicleId": "veh_p_demo_03",
+                "routeKm": 112.34852437871834,
+                "directKm": 106.6397545731565,
+                "detourKm": 5.708769805561843,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_19",
+                "routeKm": 105.72248464667118,
+                "directKm": 94.5243648712279,
+                "detourKm": 11.198119775443274,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_02",
+                "routeKm": 104.45426811801997,
+                "directKm": 104.45352583421182,
+                "detourKm": 0.0007422838081510008,
+                "seatsUsed": 4,
+                "seatsTotal": 4
+              },
+              {
+                "vehicleId": "veh_p_demo_05",
+                "routeKm": 113.96782058571247,
+                "directKm": 100.66609300280116,
+                "detourKm": 13.301727582911312,
+                "seatsUsed": 4,
+                "seatsTotal": 4
+              },
+              {
+                "vehicleId": "veh_p_demo_06",
+                "routeKm": 98.71459428984596,
+                "directKm": 94.12498372835134,
+                "detourKm": 4.589610561494624,
+                "seatsUsed": 3,
+                "seatsTotal": 5
+              }
+            ],
+            "passengerKm": {
+              "p_demo_17": 112.34852437871834,
+              "p_demo_11": 107.53243027043126,
+              "p_demo_04": 104.67626218620401,
+              "p_demo_22": 100.38496643670017,
+              "p_demo_10": 101.00827236758602,
+              "p_demo_24": 96.17121030734593,
+              "p_demo_07": 96.17121030734593,
+              "p_demo_12": 91.43485318130877,
+              "p_demo_16": 104.45426811801997,
+              "p_demo_15": 100.38496643670017,
+              "p_demo_01": 100.38496643670017,
+              "p_demo_18": 113.96782058571247,
+              "p_demo_08": 109.695980007022,
+              "p_demo_20": 93.88624325427116,
+              "p_demo_23": 98.71459428984596,
+              "p_demo_13": 94.90708341903972
+            },
+            "distanceKind": "straight_line"
+          },
+          "alternatives": [
+            {
+              "driverIds": [
+                "p_demo_05",
+                "p_demo_06",
+                "p_demo_02",
+                "p_demo_19",
+                "p_demo_03"
+              ],
+              "carsUsed": 5,
+              "totalKm": 535.2076920189679,
+              "score": 962.5744857814702,
+              "projectedImbalance": 0.5569898839689922
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_06",
+                "p_demo_19",
+                "p_demo_05"
+              ],
+              "carsUsed": 4,
+              "totalKm": 459.55437460551593,
+              "score": 985.6655939667381,
+              "projectedImbalance": 0.8546576806217864
+            },
+            {
+              "driverIds": [
+                "p_demo_05",
+                "p_demo_06",
+                "p_demo_02",
+                "p_demo_03",
+                "p_demo_12"
+              ],
+              "carsUsed": 5,
+              "totalKm": 535.1947636062225,
+              "score": 987.0015805835025,
+              "projectedImbalance": 0.6317646869940424
+            }
+          ],
+          "validated": true
+        },
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "e_demo_6",
+        "name": "Match à Vannes",
+        "date": "2026-10-24",
+        "departureTime": "07:15",
+        "returnTime": null,
+        "destination": {
+          "label": "Vannes",
+          "address": "Complexe sportif de Vannes",
+          "lat": 47.6582,
+          "lng": -2.7608
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "done",
+        "plan": {
+          "id": "plan_e_demo_6",
+          "strategy": {
+            "mode": "mixed",
+            "weights": {
+              "volunteer": 5,
+              "tripEquity": 5,
+              "distanceEquity": 3,
+              "consecutive": 5,
+              "compactness": 5,
+              "fewCars": 6
+            },
+            "maxConsecutive": 2,
+            "maxDetourKm": 25,
+            "extraCars": 1
+          },
+          "generatedAt": "2026-10-24T06:00:00.000Z",
+          "source": "engine",
+          "vehicles": [
+            {
+              "id": "veh_p_demo_10",
+              "driverId": "p_demo_10",
+              "passengerIds": [
+                "p_demo_24",
+                "p_demo_07",
+                "p_demo_22",
+                "p_demo_15",
+                "p_demo_18",
+                "p_demo_05"
+              ]
+            },
+            {
+              "id": "veh_p_demo_12",
+              "driverId": "p_demo_12",
+              "passengerIds": [
+                "p_demo_06",
+                "p_demo_13",
+                "p_demo_09",
+                "p_demo_20"
+              ]
+            },
+            {
+              "id": "veh_p_demo_14",
+              "driverId": "p_demo_14",
+              "passengerIds": [
+                "p_demo_16",
+                "p_demo_02",
+                "p_demo_08"
+              ]
+            },
+            {
+              "id": "veh_p_demo_21",
+              "driverId": "p_demo_21",
+              "passengerIds": [
+                "p_demo_17",
+                "p_demo_03",
+                "p_demo_01"
+              ]
+            }
+          ],
+          "unassigned": [],
+          "excluded": [],
+          "selfTransportIds": [],
+          "eligibleDriverIds": [
+            "p_demo_01",
+            "p_demo_02",
+            "p_demo_03",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_12",
+            "p_demo_14",
+            "p_demo_21"
+          ],
+          "attendeeIds": [
+            "p_demo_01",
+            "p_demo_02",
+            "p_demo_03",
+            "p_demo_05",
+            "p_demo_06",
+            "p_demo_07",
+            "p_demo_08",
+            "p_demo_09",
+            "p_demo_10",
+            "p_demo_12",
+            "p_demo_13",
+            "p_demo_14",
+            "p_demo_15",
+            "p_demo_16",
+            "p_demo_17",
+            "p_demo_18",
+            "p_demo_20",
+            "p_demo_21",
+            "p_demo_22",
+            "p_demo_24"
+          ],
+          "locks": {
+            "drivers": [],
+            "assignments": {}
+          },
+          "issues": [],
+          "suggestions": [],
+          "status": "ok",
+          "metrics": {
+            "carsUsed": 4,
+            "totalKm": 468.3902632221278,
+            "totalDetourKm": 25.705383154323172,
+            "soloKm": 2054.609962523688,
+            "vehicles": [
+              {
+                "vehicleId": "veh_p_demo_10",
+                "routeKm": 119.41227745111581,
+                "directKm": 106.1502350735473,
+                "detourKm": 13.26204237756852,
+                "seatsUsed": 7,
+                "seatsTotal": 7
+              },
+              {
+                "vehicleId": "veh_p_demo_12",
+                "routeKm": 109.66023912529081,
+                "directKm": 99.14675972069548,
+                "detourKm": 10.51347940459533,
+                "seatsUsed": 5,
+                "seatsTotal": 5
+              },
+              {
+                "vehicleId": "veh_p_demo_14",
+                "routeKm": 110.72728973532821,
+                "directKm": 108.98756585163234,
+                "detourKm": 1.7397238836958735,
+                "seatsUsed": 4,
+                "seatsTotal": 4
+              },
+              {
+                "vehicleId": "veh_p_demo_21",
+                "routeKm": 128.59045691039293,
+                "directKm": 128.40031942192948,
+                "detourKm": 0.19013748846344924,
+                "seatsUsed": 4,
+                "seatsTotal": 4
+              }
+            ],
+            "passengerKm": {
+              "p_demo_24": 114.57521539087573,
+              "p_demo_07": 114.57521539087573,
+              "p_demo_22": 104.45847796118635,
+              "p_demo_15": 104.45847796118635,
+              "p_demo_18": 97.2351675938327,
+              "p_demo_05": 97.2351675938327,
+              "p_demo_06": 103.73474509783125,
+              "p_demo_13": 99.92723422702501,
+              "p_demo_09": 93.1386266374348,
+              "p_demo_20": 85.45092159168517,
+              "p_demo_16": 106.42041978856048,
+              "p_demo_02": 106.42041978856048,
+              "p_demo_08": 100.9263498683324,
+              "p_demo_17": 111.5596364332115,
+              "p_demo_03": 111.5596364332115,
+              "p_demo_01": 103.1251355387674
+            },
+            "distanceKind": "straight_line"
+          },
+          "alternatives": [
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_12",
+                "p_demo_21",
+                "p_demo_14"
+              ],
+              "carsUsed": 4,
+              "totalKm": 468.39026322212777,
+              "score": 789.2314097166209,
+              "projectedImbalance": 0.6875381170388953
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_12",
+                "p_demo_21",
+                "p_demo_09"
+              ],
+              "carsUsed": 4,
+              "totalKm": 463.11237650411584,
+              "score": 798.9496600865448,
+              "projectedImbalance": 0.6875381170388953
+            },
+            {
+              "driverIds": [
+                "p_demo_10",
+                "p_demo_01",
+                "p_demo_21",
+                "p_demo_14"
+              ],
+              "carsUsed": 4,
+              "totalKm": 456.71019722480753,
+              "score": 807.7754043088365,
+              "projectedImbalance": 0.8157425666891869
+            }
+          ],
+          "validated": true
+        },
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "e_demo_7",
+        "name": "Finale régionale à Angers",
+        "date": "2026-11-14",
+        "departureTime": "08:00",
+        "returnTime": null,
+        "destination": {
+          "label": "Angers",
+          "address": "Complexe sportif de Angers",
+          "lat": 47.4784,
+          "lng": -0.5632
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "unknown",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "unknown",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "planned",
+        "plan": null,
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "e_demo_8",
+        "name": "Tournoi du Mans",
+        "date": "2026-11-28",
+        "departureTime": "06:30",
+        "returnTime": null,
+        "destination": {
+          "label": "Le Mans",
+          "address": "Complexe sportif de Le Mans",
+          "lat": 48.0061,
+          "lng": 0.1996
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "no",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "unknown",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "planned",
+        "plan": null,
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      },
+      {
+        "id": "e_demo_9",
+        "name": "Tournoi de Rennes (retour)",
+        "date": "2026-12-12",
+        "departureTime": "07:00",
+        "returnTime": null,
+        "destination": {
+          "label": "Rennes",
+          "address": "Complexe sportif de Rennes",
+          "lat": 48.1173,
+          "lng": -1.6778
+        },
+        "constraints": "",
+        "attendance": [
+          {
+            "participantId": "p_demo_01",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_02",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_03",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_04",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_05",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_06",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_07",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_08",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_09",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_10",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_11",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_12",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_13",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_14",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_15",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_16",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_17",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_18",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_19",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_20",
+            "availability": "unknown",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_21",
+            "availability": "unknown",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_22",
+            "availability": "unknown",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_23",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          },
+          {
+            "participantId": "p_demo_24",
+            "availability": "yes",
+            "selfTransport": false,
+            "startOverride": null,
+            "seatsOverride": null,
+            "carAvailableOverride": null,
+            "note": ""
+          }
+        ],
+        "status": "planned",
+        "plan": null,
+        "createdAt": "2026-09-01T08:00:00.000Z",
+        "updatedAt": "2026-09-01T08:00:00.000Z",
+        "deletedAt": null
+      }
+    ],
+    "settings": {
+      "strategy": {
+        "mode": "mixed",
+        "weights": {
+          "volunteer": 5,
+          "tripEquity": 5,
+          "distanceEquity": 3,
+          "consecutive": 5,
+          "compactness": 5,
+          "fewCars": 6
+        },
+        "maxConsecutive": 2,
+        "maxDetourKm": 25,
+        "extraCars": 1
+      },
+      "backupEveryDays": 7,
+      "autoBackupEnabled": true
+    },
+    "meta": {
+      "deviceId": "dev_4335e423-134f-4c64-b10f-5be77428dc4a",
+      "createdAt": "2026-11-06T22:35:32.005Z",
+      "updatedAt": "2026-11-06T22:35:32.005Z",
+      "lastExportAt": null,
+      "lastBackupAt": null
+    }
+  }
+}
